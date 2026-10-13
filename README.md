@@ -17,7 +17,7 @@ The objective is to clean and analyse retail data, identify meaningful business 
 ## Dataset
 
 The project uses an online retail transaction dataset containing invoice details, product descriptions, quantities, unit prices, customer IDs, and country information.
-**Dataset source:** [Online Retail Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+**Dataset source:** (https://github.com/cynthia-ugochinyerem/SQL-RETAIL-STORE-MANAGEMENT)
 
 The dataset contains retail transactions from a UK-based online retailer. The original dataset is available from the source linked above.
 
